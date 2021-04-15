@@ -1,11 +1,9 @@
 {
-  "users": [
-    {
+  "users": {
       "id": 1,
       "firstname": "Teody",
       "lastname": "Ingeniero"
-    }
-  ],
+   },
   "profile": {
     "name": "typicode"
   }
