@@ -2,7 +2,8 @@
   "users": [
     {
       "id": 1,
-      "name": "Teody"
+      "firstname": "Teody",
+      "lastname": "Teody"
     }
   ],
   "profile": {
