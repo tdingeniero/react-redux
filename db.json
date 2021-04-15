@@ -1,14 +1,16 @@
 {
-  "users": [{
+  "users": [
+    {
       "id": 1,
       "firstname": "Teody",
       "lastname": "Ingeniero"
    },
-  {
+   {
       "id": 2,
       "firstname": "Mary Rose",
       "lastname": "Ingeniero"
-   }],
+   }
+  ],
   "profile": {
     "name": "typicode"
   }
